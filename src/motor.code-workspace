@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "motor",
+			"path": "D:/motor/motor"
+		},
+		{
+			"name": "servo control",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
